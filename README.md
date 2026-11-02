@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hi, I'm Turki 👋
 
-<!--
-**turki-alotaibi9/turki-alotaibi9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Cybersecurity | Network Security | AI Infrastructure
 
-Here are some ideas to get you started:
+I'm a Cybersecurity and Network Security graduate with an interest in building, securing, and monitoring modern IT and AI infrastructure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My technical interests include:
+
+- 🔐 **Cybersecurity:** SOC Operations, SIEM, Threat Detection, Threat Intelligence, and Security Monitoring.
+- 🌐 **Network Security:** TCP/IP, VLANs, Network Segmentation, Firewalls, NAT, and Access Control.
+- 🤖 **AI Infrastructure:** LLM Serving, vLLM, AI Model Security, and AI Workload Monitoring.
+- ⚙️ **Infrastructure & Development:** Linux, Python, Docker, Kubernetes, and FastAPI.
+
+### 🛠️ Technologies & Tools
+
+**Cybersecurity**
+- Splunk
+- Palo Alto Networks
+- Wireshark
+- Security Onion
+
+**Networking**
+- Cisco Packet Tracer
+- EVE-NG
+- TCP/IP
+- VLANs and Routing
+
+**AI & Infrastructure**
+- vLLM
+- Docker
+- Kubernetes
+- Prometheus
+- Grafana
+
+**Programming**
+- Python
+- FastAPI
+- SQL
+- ASP.NET Core
+
+### 📂 Featured Projects
+
+- Network Security Labs – Network design, segmentation, and firewall configurations.
+- SOC & SIEM Labs – Security log analysis, detection rules, and alert investigation.
+- AI Infrastructure – LLM deployment, inference, and monitoring.
+- Python Security Tools – Automation and security-related scripts.
+
+### 📚 Currently Learning
+
+- Advanced Network Security
+- Threat Intelligence
+- Security Operations and Incident Response
+- AI Security and Infrastructure
+
+### 📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/turki-mo-alotaibi/
+- Email: Turkialotaibidev@gmail.com

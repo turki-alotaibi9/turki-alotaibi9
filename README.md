@@ -15,15 +15,15 @@ My technical interests include:
 
 **Cybersecurity**
 - Splunk
-- Palo Alto Networks
-- Wireshark
-- Security Onion
+- Palo Alto Firewall
+- Log Analysis
+- SIEM Engineering 
 
 **Networking**
-- Cisco Packet Tracer
-- EVE-NG
+- Switching and Routing
 - TCP/IP
-- VLANs and Routing
+- VLANs
+- High availability
 
 **AI & Infrastructure**
 - vLLM
@@ -36,8 +36,7 @@ My technical interests include:
 - Python
 - FastAPI
 - SQL
-- ASP.NET Core
-
+- 
 ### 📂 Featured Projects
 
 - Network Security Labs – Network design, segmentation, and firewall configurations.
@@ -45,12 +44,6 @@ My technical interests include:
 - AI Infrastructure – LLM deployment, inference, and monitoring.
 - Python Security Tools – Automation and security-related scripts.
 
-### 📚 Currently Learning
-
-- Advanced Network Security
-- Threat Intelligence
-- Security Operations and Incident Response
-- AI Security and Infrastructure
 
 ### 📫 Connect With Me
 

@@ -2,7 +2,7 @@
 
 ### Cybersecurity | Network Security | AI Infrastructure
 
-I'm a Cybersecurity and Network Security graduate with an interest in building, securing, and monitoring modern IT and AI infrastructure.
+I'm a Cybersecurity and Network Security graduate with an interest in securing, and monitoring modern IT and AI infrastructure.
 
 My technical interests include:
 
